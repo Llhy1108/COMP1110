@@ -1,0 +1,11 @@
+{
+  "budgets": [
+    {
+      "configured": true,
+      "expectedIncome": 2000,
+      "fixedExpense": 0,
+      "month": "2026-05",
+      "savings": 0
+    }
+  ]
+}

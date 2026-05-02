@@ -1,0 +1,13 @@
+{
+  "events": [
+    {
+      "budget": 3000,
+      "description": "Dentist consultation AND Cleaning",
+      "endDate": "2026-04-29",
+      "id": "yeud76fe",
+      "name": "Tooth treatment",
+      "spent": 2700,
+      "startDate": "2026-04-29"
+    }
+  ]
+}
