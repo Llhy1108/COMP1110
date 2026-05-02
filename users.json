@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "created": "2026-04-30",
+      "email": "case1@gmail.com",
+      "id": "t1zbtqeu",
+      "name": "case1",
+      "password": "1",
+      "username": "1"
+    },
+    {
+      "created": "2026-04-30",
+      "email": "case2@gmail.com",
+      "id": "qb3bejqr",
+      "name": "case2",
+      "password": "2",
+      "username": "2"
+    },
+    {
+      "created": "2026-04-30",
+      "email": "case3@gmail.com",
+      "id": "jkknffcp",
+      "name": "case3",
+      "password": "3",
+      "username": "3"
+    }
+  ]
+}

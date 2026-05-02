@@ -1,0 +1,192 @@
+{
+  "groups": [
+    {
+      "created": "2026-05-02",
+      "expenses": [
+        {
+          "amount": 2000,
+          "date": "2026-04-28",
+          "description": "Hotel for 3 nights",
+          "id": "08gddcrl",
+          "paidBy": "m1",
+          "splits": [
+            {
+              "amount": 500,
+              "memberId": "m1"
+            },
+            {
+              "amount": 500,
+              "memberId": "m2"
+            },
+            {
+              "amount": 500,
+              "memberId": "m3"
+            },
+            {
+              "amount": 500,
+              "memberId": "m4"
+            }
+          ]
+        },
+        {
+          "amount": 500,
+          "date": "2026-04-28",
+          "description": "Dinner at local restaurant",
+          "id": "rs07mnag",
+          "paidBy": "m2",
+          "splits": [
+            {
+              "amount": 125,
+              "memberId": "m1"
+            },
+            {
+              "amount": 125,
+              "memberId": "m2"
+            },
+            {
+              "amount": 125,
+              "memberId": "m3"
+            },
+            {
+              "amount": 125,
+              "memberId": "m4"
+            }
+          ]
+        },
+        {
+          "amount": 300,
+          "date": "2026-04-28",
+          "description": "Transport to hotel (taxi)",
+          "id": "8h2tnkiu",
+          "paidBy": "m3",
+          "splits": [
+            {
+              "amount": 100,
+              "memberId": "m1"
+            },
+            {
+              "amount": 100,
+              "memberId": "m2"
+            },
+            {
+              "amount": 100,
+              "memberId": "m3"
+            }
+          ]
+        },
+        {
+          "amount": 800,
+          "date": "2026-04-29",
+          "description": "Theme park tickets",
+          "id": "o5ke8fww",
+          "paidBy": "m1",
+          "splits": [
+            {
+              "amount": 200,
+              "memberId": "m1"
+            },
+            {
+              "amount": 200,
+              "memberId": "m2"
+            },
+            {
+              "amount": 200,
+              "memberId": "m3"
+            },
+            {
+              "amount": 200,
+              "memberId": "m4"
+            }
+          ]
+        },
+        {
+          "amount": 420,
+          "date": "2026-04-29",
+          "description": "Lunch + drinks",
+          "id": "zwhhnqx8",
+          "paidBy": "m4",
+          "splits": [
+            {
+              "amount": 105,
+              "memberId": "m1"
+            },
+            {
+              "amount": 105,
+              "memberId": "m2"
+            },
+            {
+              "amount": 105,
+              "memberId": "m3"
+            },
+            {
+              "amount": 105,
+              "memberId": "m4"
+            }
+          ]
+        },
+        {
+          "amount": 150,
+          "date": "2026-04-29",
+          "description": "Snacks and drinks (AB only)",
+          "id": "le38lva2",
+          "paidBy": "m2",
+          "splits": [
+            {
+              "amount": 80,
+              "memberId": "m1"
+            },
+            {
+              "amount": 70,
+              "memberId": "m2"
+            }
+          ]
+        },
+        {
+          "amount": 650,
+          "date": "2026-04-30",
+          "description": "Souvenirs and shopping",
+          "id": "uezt76u4",
+          "paidBy": "m3",
+          "splits": [
+            {
+              "amount": 200,
+              "memberId": "m1"
+            },
+            {
+              "amount": 150,
+              "memberId": "m2"
+            },
+            {
+              "amount": 150,
+              "memberId": "m3"
+            },
+            {
+              "amount": 150,
+              "memberId": "m4"
+            }
+          ]
+        }
+      ],
+      "id": "y6xtybg2",
+      "members": [
+        {
+          "id": "m1",
+          "name": "Alice"
+        },
+        {
+          "id": "m2",
+          "name": "Bob"
+        },
+        {
+          "id": "m3",
+          "name": "Charlie"
+        },
+        {
+          "id": "m4",
+          "name": "David"
+        }
+      ],
+      "name": "Spring Trip with Friends"
+    }
+  ]
+}
