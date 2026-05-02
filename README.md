@@ -182,7 +182,9 @@ Expected: correct settlement plan
 ---
 
 ## 9. Case Studies
-
+-Unzip Case Test Data and move into "Data" file
+-For the expected outcome of each case study, run the program and login with corresponding username and password
+e.g. Case Study 1 login as Username "1" and passward "1" etc. 
 ### Case Study 1: Student Daily Budget
 Controls daily spending using alerts.  
 Example: Budget = 6000 → [DAILY WARNING] triggered when spending > N
