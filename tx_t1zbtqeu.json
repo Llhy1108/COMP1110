@@ -1,0 +1,1164 @@
+{
+  "transactions": [
+    {
+      "amount": 6000,
+      "category": "c11",
+      "date": "2026-04-01",
+      "description": "Money from parents",
+      "eventId": "",
+      "expenseKind": "",
+      "id": "6mkqt3ji",
+      "type": "income"
+    },
+    {
+      "amount": 25,
+      "category": "c02",
+      "date": "2026-04-01",
+      "description": "MTR to campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "08013v89",
+      "type": "expense"
+    },
+    {
+      "amount": 42.4,
+      "category": "c01",
+      "date": "2026-04-01",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "zmh4sz60",
+      "type": "expense"
+    },
+    {
+      "amount": 117.6,
+      "category": "c01",
+      "date": "2026-04-01",
+      "description": "Dinner with friends",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "r6zmc4ln",
+      "type": "expense"
+    },
+    {
+      "amount": 174.4,
+      "category": "c06",
+      "date": "2026-04-01",
+      "description": "Clothes",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "p06rr114",
+      "type": "expense"
+    },
+    {
+      "amount": 40.4,
+      "category": "c01",
+      "date": "2026-04-02",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "n1aee5he",
+      "type": "expense"
+    },
+    {
+      "amount": 96.7,
+      "category": "c01",
+      "date": "2026-04-02",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "tgbi2irj",
+      "type": "expense"
+    },
+    {
+      "amount": 178,
+      "category": "c06",
+      "date": "2026-04-02",
+      "description": "Online shopping",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "7kn6s49o",
+      "type": "expense"
+    },
+    {
+      "amount": 12,
+      "category": "c02",
+      "date": "2026-04-03",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "2bzq9bt9",
+      "type": "expense"
+    },
+    {
+      "amount": 71.7,
+      "category": "c01",
+      "date": "2026-04-03",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "2jlw9kw1",
+      "type": "expense"
+    },
+    {
+      "amount": 66.2,
+      "category": "c01",
+      "date": "2026-04-03",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "0p5qwk5h",
+      "type": "expense"
+    },
+    {
+      "amount": 102.6,
+      "category": "c06",
+      "date": "2026-04-03",
+      "description": "Clothes",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "m7csyyw2",
+      "type": "expense"
+    },
+    {
+      "amount": 12,
+      "category": "c02",
+      "date": "2026-04-04",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "fordcrfr",
+      "type": "expense"
+    },
+    {
+      "amount": 43,
+      "category": "c01",
+      "date": "2026-04-04",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "aw224gw4",
+      "type": "expense"
+    },
+    {
+      "amount": 92.2,
+      "category": "c01",
+      "date": "2026-04-04",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "8rrv1j2j",
+      "type": "expense"
+    },
+    {
+      "amount": 6.8,
+      "category": "c02",
+      "date": "2026-04-05",
+      "description": "MTR to campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "v4jwirtl",
+      "type": "expense"
+    },
+    {
+      "amount": 67.6,
+      "category": "c01",
+      "date": "2026-04-05",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "t2ye88qu",
+      "type": "expense"
+    },
+    {
+      "amount": 68.2,
+      "category": "c01",
+      "date": "2026-04-05",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "crdeqjkq",
+      "type": "expense"
+    },
+    {
+      "amount": 16.9,
+      "category": "c01",
+      "date": "2026-04-05",
+      "description": "Coffee",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "3zoso0wt",
+      "type": "expense"
+    },
+    {
+      "amount": 134.5,
+      "category": "c06",
+      "date": "2026-04-05",
+      "description": "Weekly groceries",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "2cok9spe",
+      "type": "expense"
+    },
+    {
+      "amount": 12,
+      "category": "c02",
+      "date": "2026-04-06",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "n64covma",
+      "type": "expense"
+    },
+    {
+      "amount": 68.7,
+      "category": "c01",
+      "date": "2026-04-06",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "89xzc8ka",
+      "type": "expense"
+    },
+    {
+      "amount": 71.7,
+      "category": "c01",
+      "date": "2026-04-06",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "zs3v5hgc",
+      "type": "expense"
+    },
+    {
+      "amount": 61.1,
+      "category": "c01",
+      "date": "2026-04-07",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "fabmqc27",
+      "type": "expense"
+    },
+    {
+      "amount": 92.7,
+      "category": "c01",
+      "date": "2026-04-07",
+      "description": "Dinner with friends",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "ylzfan6o",
+      "type": "expense"
+    },
+    {
+      "amount": 15.2,
+      "category": "c01",
+      "date": "2026-04-07",
+      "description": "Bubble tea",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "ns6pptjj",
+      "type": "expense"
+    },
+    {
+      "amount": 171.2,
+      "category": "c06",
+      "date": "2026-04-07",
+      "description": "Clothes",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "xvn6qz9n",
+      "type": "expense"
+    },
+    {
+      "amount": 12,
+      "category": "c02",
+      "date": "2026-04-08",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "g0t6k4i5",
+      "type": "expense"
+    },
+    {
+      "amount": 40.9,
+      "category": "c01",
+      "date": "2026-04-08",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "1qu2kpgy",
+      "type": "expense"
+    },
+    {
+      "amount": 121.9,
+      "category": "c06",
+      "date": "2026-04-08",
+      "description": "Accessories",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "yy1506qn",
+      "type": "expense"
+    },
+    {
+      "amount": 134.1,
+      "category": "c04",
+      "date": "2026-04-08",
+      "description": "Movie night",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "ihzprwkv",
+      "type": "expense"
+    },
+    {
+      "amount": 6.8,
+      "category": "c02",
+      "date": "2026-04-09",
+      "description": "MTR to campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "1b0ri4yn",
+      "type": "expense"
+    },
+    {
+      "amount": 62.4,
+      "category": "c01",
+      "date": "2026-04-09",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "ykmimle1",
+      "type": "expense"
+    },
+    {
+      "amount": 70.5,
+      "category": "c01",
+      "date": "2026-04-09",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "f8cs4f3r",
+      "type": "expense"
+    },
+    {
+      "amount": 56,
+      "category": "c06",
+      "date": "2026-04-09",
+      "description": "Online shopping",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "rji4m2ie",
+      "type": "expense"
+    },
+    {
+      "amount": 18,
+      "category": "c02",
+      "date": "2026-04-10",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "le1jx94e",
+      "type": "expense"
+    },
+    {
+      "amount": 44,
+      "category": "c01",
+      "date": "2026-04-10",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "kskjshbj",
+      "type": "expense"
+    },
+    {
+      "amount": 67.8,
+      "category": "c01",
+      "date": "2026-04-10",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "4ef9o6vw",
+      "type": "expense"
+    },
+    {
+      "amount": 22.5,
+      "category": "c01",
+      "date": "2026-04-10",
+      "description": "Evening snack",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "pxcbfbmu",
+      "type": "expense"
+    },
+    {
+      "amount": 131.3,
+      "category": "c06",
+      "date": "2026-04-10",
+      "description": "Personal care items",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "zgfwdnv4",
+      "type": "expense"
+    },
+    {
+      "amount": 25,
+      "category": "c02",
+      "date": "2026-04-11",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "m0dkwjac",
+      "type": "expense"
+    },
+    {
+      "amount": 126.4,
+      "category": "c01",
+      "date": "2026-04-11",
+      "description": "Dinner with friends",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "p9gpswsc",
+      "type": "expense"
+    },
+    {
+      "amount": 138.4,
+      "category": "c06",
+      "date": "2026-04-11",
+      "description": "Online shopping",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "9c6trg4j",
+      "type": "expense"
+    },
+    {
+      "amount": 6.8,
+      "category": "c02",
+      "date": "2026-04-12",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "gpugdqel",
+      "type": "expense"
+    },
+    {
+      "amount": 69.2,
+      "category": "c01",
+      "date": "2026-04-12",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "no81kyr6",
+      "type": "expense"
+    },
+    {
+      "amount": 97.4,
+      "category": "c01",
+      "date": "2026-04-12",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "249b2o58",
+      "type": "expense"
+    },
+    {
+      "amount": 14.9,
+      "category": "c01",
+      "date": "2026-04-12",
+      "description": "Bubble tea",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "mdmee4li",
+      "type": "expense"
+    },
+    {
+      "amount": 51.4,
+      "category": "c06",
+      "date": "2026-04-12",
+      "description": "Stationery",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "mqw25qcy",
+      "type": "expense"
+    },
+    {
+      "amount": 25,
+      "category": "c02",
+      "date": "2026-04-13",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "elobgpcu",
+      "type": "expense"
+    },
+    {
+      "amount": 61.5,
+      "category": "c01",
+      "date": "2026-04-13",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "53fgnq4b",
+      "type": "expense"
+    },
+    {
+      "amount": 104.9,
+      "category": "c01",
+      "date": "2026-04-13",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "z5onib9m",
+      "type": "expense"
+    },
+    {
+      "amount": 14.1,
+      "category": "c01",
+      "date": "2026-04-13",
+      "description": "Midnight snack",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "nfwd962s",
+      "type": "expense"
+    },
+    {
+      "amount": 108.3,
+      "category": "c06",
+      "date": "2026-04-13",
+      "description": "Weekly groceries",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "3e9csit2",
+      "type": "expense"
+    },
+    {
+      "amount": 6.8,
+      "category": "c02",
+      "date": "2026-04-14",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "73o24nwb",
+      "type": "expense"
+    },
+    {
+      "amount": 41.4,
+      "category": "c01",
+      "date": "2026-04-14",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "jp580esz",
+      "type": "expense"
+    },
+    {
+      "amount": 68.5,
+      "category": "c01",
+      "date": "2026-04-14",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "1i1sb677",
+      "type": "expense"
+    },
+    {
+      "amount": 13.5,
+      "category": "c01",
+      "date": "2026-04-14",
+      "description": "Coffee",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "78bbh8mt",
+      "type": "expense"
+    },
+    {
+      "amount": 25,
+      "category": "c02",
+      "date": "2026-04-15",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "206gno9k",
+      "type": "expense"
+    },
+    {
+      "amount": 54.2,
+      "category": "c01",
+      "date": "2026-04-15",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "h58pygjj",
+      "type": "expense"
+    },
+    {
+      "amount": 88.5,
+      "category": "c01",
+      "date": "2026-04-15",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "7wdxjm18",
+      "type": "expense"
+    },
+    {
+      "amount": 40,
+      "category": "c02",
+      "date": "2026-04-16",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "ish1wixf",
+      "type": "expense"
+    },
+    {
+      "amount": 66.4,
+      "category": "c01",
+      "date": "2026-04-16",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "2rcyi9ub",
+      "type": "expense"
+    },
+    {
+      "amount": 103.4,
+      "category": "c01",
+      "date": "2026-04-16",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "q29xcym9",
+      "type": "expense"
+    },
+    {
+      "amount": 13,
+      "category": "c02",
+      "date": "2026-04-17",
+      "description": "MTR ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "2q957k9u",
+      "type": "expense"
+    },
+    {
+      "amount": 50.4,
+      "category": "c01",
+      "date": "2026-04-17",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "tifolkmg",
+      "type": "expense"
+    },
+    {
+      "amount": 20.8,
+      "category": "c01",
+      "date": "2026-04-17",
+      "description": "Evening snack",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "zxdnlbwv",
+      "type": "expense"
+    },
+    {
+      "amount": 153.2,
+      "category": "c05",
+      "date": "2026-04-17",
+      "description": "Pharmacy",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "dz2jjwbc",
+      "type": "expense"
+    },
+    {
+      "amount": 18,
+      "category": "c02",
+      "date": "2026-04-18",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "61s5xm9m",
+      "type": "expense"
+    },
+    {
+      "amount": 130.3,
+      "category": "c01",
+      "date": "2026-04-18",
+      "description": "gathering",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "le2mswsk",
+      "type": "expense"
+    },
+    {
+      "amount": 8.8,
+      "category": "c01",
+      "date": "2026-04-18",
+      "description": "Bubble tea",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "cbxpgkjy",
+      "type": "expense"
+    },
+    {
+      "amount": 54.4,
+      "category": "c01",
+      "date": "2026-04-19",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "fsnmwfns",
+      "type": "expense"
+    },
+    {
+      "amount": 74.9,
+      "category": "c01",
+      "date": "2026-04-19",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "zdgh14s5",
+      "type": "expense"
+    },
+    {
+      "amount": 129.7,
+      "category": "c06",
+      "date": "2026-04-19",
+      "description": "Clothes",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "8oil3cx6",
+      "type": "expense"
+    },
+    {
+      "amount": 12,
+      "category": "c02",
+      "date": "2026-04-20",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "0oxbb5an",
+      "type": "expense"
+    },
+    {
+      "amount": 76.3,
+      "category": "c01",
+      "date": "2026-04-20",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "2fla85aa",
+      "type": "expense"
+    },
+    {
+      "amount": 19.6,
+      "category": "c01",
+      "date": "2026-04-20",
+      "description": "Coffee",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "9qsscyx3",
+      "type": "expense"
+    },
+    {
+      "amount": 55.1,
+      "category": "c06",
+      "date": "2026-04-20",
+      "description": "Personal care items",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "e9fny621",
+      "type": "expense"
+    },
+    {
+      "amount": 18,
+      "category": "c02",
+      "date": "2026-04-21",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "s9rjeuxs",
+      "type": "expense"
+    },
+    {
+      "amount": 56.9,
+      "category": "c01",
+      "date": "2026-04-21",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "sl1nza11",
+      "type": "expense"
+    },
+    {
+      "amount": 75.1,
+      "category": "c01",
+      "date": "2026-04-21",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "epx7bpd3",
+      "type": "expense"
+    },
+    {
+      "amount": 10.9,
+      "category": "c01",
+      "date": "2026-04-21",
+      "description": "Midnight snack",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "8ljorgyg",
+      "type": "expense"
+    },
+    {
+      "amount": 18,
+      "category": "c02",
+      "date": "2026-04-22",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "6syb01rq",
+      "type": "expense"
+    },
+    {
+      "amount": 57.4,
+      "category": "c01",
+      "date": "2026-04-22",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "t0n7inix",
+      "type": "expense"
+    },
+    {
+      "amount": 129.3,
+      "category": "c01",
+      "date": "2026-04-22",
+      "description": "Dinner with friends / gathering",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "dx9dcvaw",
+      "type": "expense"
+    },
+    {
+      "amount": 18,
+      "category": "c01",
+      "date": "2026-04-22",
+      "description": "Coffee",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "49txldms",
+      "type": "expense"
+    },
+    {
+      "amount": 25,
+      "category": "c02",
+      "date": "2026-04-23",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "qo0rh7sp",
+      "type": "expense"
+    },
+    {
+      "amount": 54.4,
+      "category": "c01",
+      "date": "2026-04-23",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "y8eiatt7",
+      "type": "expense"
+    },
+    {
+      "amount": 84.2,
+      "category": "c01",
+      "date": "2026-04-23",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "8pj55vpv",
+      "type": "expense"
+    },
+    {
+      "amount": 10.3,
+      "category": "c01",
+      "date": "2026-04-23",
+      "description": "Coffee",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "22bje7x2",
+      "type": "expense"
+    },
+    {
+      "amount": 12,
+      "category": "c02",
+      "date": "2026-04-24",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "1aucdnkk",
+      "type": "expense"
+    },
+    {
+      "amount": 61,
+      "category": "c01",
+      "date": "2026-04-24",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "upvtb4ag",
+      "type": "expense"
+    },
+    {
+      "amount": 11.4,
+      "category": "c01",
+      "date": "2026-04-24",
+      "description": "Evening snack",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "9y7r71uw",
+      "type": "expense"
+    },
+    {
+      "amount": 153.6,
+      "category": "c06",
+      "date": "2026-04-24",
+      "description": "Online shopping",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "m5p3ch6z",
+      "type": "expense"
+    },
+    {
+      "amount": 18,
+      "category": "c02",
+      "date": "2026-04-25",
+      "description": "MTR back to hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "akky3zic",
+      "type": "expense"
+    },
+    {
+      "amount": 54.3,
+      "category": "c01",
+      "date": "2026-04-25",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "tg748hr9",
+      "type": "expense"
+    },
+    {
+      "amount": 99.8,
+      "category": "c01",
+      "date": "2026-04-25",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "ygqj4ue4",
+      "type": "expense"
+    },
+    {
+      "amount": 20.8,
+      "category": "c01",
+      "date": "2026-04-25",
+      "description": "Evening snack",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "r1497mx8",
+      "type": "expense"
+    },
+    {
+      "amount": 40,
+      "category": "c02",
+      "date": "2026-04-26",
+      "description": "MTR ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "ekw46bqa",
+      "type": "expense"
+    },
+    {
+      "amount": 9.4,
+      "category": "c01",
+      "date": "2026-04-26",
+      "description": "Coffee",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "fcrmq5iy",
+      "type": "expense"
+    },
+    {
+      "amount": 146.9,
+      "category": "c07",
+      "date": "2026-04-26",
+      "description": "Study materials",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "37ptvnd1",
+      "type": "expense"
+    },
+    {
+      "amount": 12,
+      "category": "c02",
+      "date": "2026-04-27",
+      "description": "MTR ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "d26f4j8p",
+      "type": "expense"
+    },
+    {
+      "amount": 44.4,
+      "category": "c01",
+      "date": "2026-04-27",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "w2ttnj9z",
+      "type": "expense"
+    },
+    {
+      "amount": 89,
+      "category": "c01",
+      "date": "2026-04-27",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "bfg2u9ea",
+      "type": "expense"
+    },
+    {
+      "amount": 10.6,
+      "category": "c01",
+      "date": "2026-04-27",
+      "description": "Bubble tea",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "n3p7cio2",
+      "type": "expense"
+    },
+    {
+      "amount": 13,
+      "category": "c02",
+      "date": "2026-04-28",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "szyxwiwr",
+      "type": "expense"
+    },
+    {
+      "amount": 59.2,
+      "category": "c01",
+      "date": "2026-04-28",
+      "description": "Lunch at university canteen",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "gke1t7q7",
+      "type": "expense"
+    },
+    {
+      "amount": 72.1,
+      "category": "c01",
+      "date": "2026-04-28",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "vcipejus",
+      "type": "expense"
+    },
+    {
+      "amount": 11.9,
+      "category": "c01",
+      "date": "2026-04-28",
+      "description": "Evening snack",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "3zeekgo2",
+      "type": "expense"
+    },
+    {
+      "amount": 74.2,
+      "category": "c06",
+      "date": "2026-04-28",
+      "description": "Stationery",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "fv02eyqj",
+      "type": "expense"
+    },
+    {
+      "amount": 13,
+      "category": "c02",
+      "date": "2026-04-29",
+      "description": "MTR ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "4evptcyb",
+      "type": "expense"
+    },
+    {
+      "amount": 69.2,
+      "category": "c01",
+      "date": "2026-04-29",
+      "description": "Lunch near campus",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "58a1iar1",
+      "type": "expense"
+    },
+    {
+      "amount": 89.9,
+      "category": "c01",
+      "date": "2026-04-29",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "cxg3estj",
+      "type": "expense"
+    },
+    {
+      "amount": 40,
+      "category": "c02",
+      "date": "2026-04-30",
+      "description": "Bus ride",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "san1e1f3",
+      "type": "expense"
+    },
+    {
+      "amount": 97,
+      "category": "c01",
+      "date": "2026-04-30",
+      "description": "Dinner near student hall",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "a1tbcyti",
+      "type": "expense"
+    },
+    {
+      "amount": 164.4,
+      "category": "c04",
+      "date": "2026-04-30",
+      "description": "Movie night",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "niqsbz0x",
+      "type": "expense"
+    },
+    {
+      "amount": 1000,
+      "category": "c05",
+      "date": "2026-05-02",
+      "description": "",
+      "eventId": "fc58yfzf",
+      "expenseKind": "event",
+      "id": "7bkkws1b",
+      "type": "expense"
+    }
+  ]
+}

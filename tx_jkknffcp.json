@@ -1,0 +1,14 @@
+{
+  "transactions": [
+    {
+      "amount": 200,
+      "category": "c11",
+      "date": "2026-05-02",
+      "description": "",
+      "eventId": "",
+      "expenseKind": "daily",
+      "id": "myjuwqyo",
+      "type": "expense"
+    }
+  ]
+}
