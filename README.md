@@ -115,14 +115,14 @@ Only **daily expenses** are counted toward budget tracking.
 - Total income and expense
 - Net balance
 - Category breakdown (sorted by spending, descending)
-- Top-3 spending categories
+- Top-3 spending categories (All categories are sorted in descending order)
 - Expense type breakdown (daily / fixed / event)
 - visualization (charts)
 - Spending trends (last 7 days / last 30 days)
 
 ---
 
-### 6.5 Special Events
+### 6.5 Special Events (e.g Emergency)
 
 - Independent budgeting system
 - Event expenses do not affect daily budget
@@ -141,7 +141,7 @@ Only **daily expenses** are counted toward budget tracking.
 
 The system handles:
 - Invalid numeric input
-- Invalid date format
+- Invalid date format(including future date)
 - Invalid category selection
 - Empty required fields
 - Invalid menu choices
@@ -198,7 +198,7 @@ Example: Output shows top spending category exceeds threshold
 
 ### Case Study 3: Shared Expenses
 Minimizes settlement transactions.  
-Example: Settlement → B → A: 487.5, C → A: 337.5
+Example: Settlement B → A: 487.5, C → A: 337.5
 
 ---
 
@@ -234,7 +234,7 @@ Example: Settlement → B → A: 487.5, C → A: 337.5
 
 ## 13. AI Usage Disclosure
 
-AI tools (e.g., ChatGPT) were used for:
+AI tools (e.g., ChatGPT, Claude) were used for:
 - code structuring
 - debugging
 - documentation refinement
